@@ -1,0 +1,3 @@
+[submodule "learncpp_stroustrup_book"]
+	path = learncpp_stroustrup_book
+	url = https://github.com/rajgupt/learncpp_stroustrup_book
